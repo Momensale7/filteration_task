@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
+
+@theme {
+  --font-sen:'sen','san-serif' ;
+  --font-poppins:'poppins','san-serif';
+  --color-main:#C98A40;
+  --color-primary:#fdba10;
+  --color-inputColor:#FFD39F;
+  --color-inputTextColor:#584125;
+}

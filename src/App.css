@@ -1,0 +1,6 @@
+html {
+  font-size: clamp(8px, 0.8vw, 16px); /* Dynamically scales between 12px and 16px */
+}
+.text-last-end{
+text-align-last: end;
+}
